@@ -9,9 +9,8 @@ To run this notebook, you need to have the following installed:
 - Python 3.x
 - TensorFlow, Keras
 - Jupyter Notebook
-## Usage
+## Description of notebook
 
-To use this notebook, open it with Jupyter Notebook and run each cell in order.
 
 The notebook is divided into several parts:
 
@@ -23,8 +22,9 @@ The notebook is divided into several parts:
 
 The dataset consists of two folders:
 
-training_set: contains 8000 images of cats and dogs for training the CNN.
+training_set: contains 8000 images of cats and dogs for training the CNN. <br/>
 test_set: contains 2000 images of cats and dogs for evaluating the performance of the CNN.
+The dataset is too large, so it could not be uploaded to repository.
 ## Result
 
 The CNN achieves an accuracy of over 80% on the test set.
